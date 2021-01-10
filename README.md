@@ -1,2 +1,2 @@
 # hello_world
-Firts try
+First try
